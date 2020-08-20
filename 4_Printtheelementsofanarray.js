@@ -8,3 +8,5 @@ function given_all(arr){
 
 var n=[1, 4, 2, 12]
 given_all(n);
+
+//

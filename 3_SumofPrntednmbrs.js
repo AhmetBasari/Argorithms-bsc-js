@@ -14,3 +14,4 @@ for (var i=0; i<=135; i++){
 // i=1 => Number is:1 Sum: 1
 // i=2 => Number is:2 Sum: 3
 // i=3 => Number is:3 Sum: 6
+//
