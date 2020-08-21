@@ -2,12 +2,12 @@
 // fine all of the array's length average from for loop
 //output average 
 
-function Get_average (arr){
+function Get_average (a){
     var Total=0;
-    for(var i=0; i<arr.length; i++){
-        Total += arr[i];  
+    for(var i=0; i<a.length; i++){
+        Total += a[i];  
     }
-    average= Total / arr.length
+    average= Total / a.length
     return average
 }
 
